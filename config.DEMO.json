@@ -1,0 +1,3 @@
+{
+  "postgres": "host=MYHOST dbname=gis user=postgres password=MYPASS"
+}
